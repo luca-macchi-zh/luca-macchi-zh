@@ -14,15 +14,14 @@ I'm **Luca** — I design and build things for the web.
 
 <br>
 
-<sub><samp>§ ABOUT</samp></sub>
+<sub><samp>§ ON DESIGN</samp></sub>
 
-Based in Switzerland. z0pus lab is the studio I run on the side of the day job.<br>
-Self-taught — vibecoding since January 2026 — and learning everything at once:<br>
-Swift, backends &amp; databases, type &amp; motion, AI tooling.
+Good design is quiet — it serves first, and speaks second.
 
-Off the screen: photography, the mountains, sport.<br>
-Most of what I build lives in private repositories —<br>
-the graph is green, the code is quiet.
+Whitespace isn't empty; it's where the eye rests.<br>
+Details aren't decoration; they're respect for the person using the thing.
+
+Subtract until it breaks. Then put back the last thing you removed.
 
 <br>
 
