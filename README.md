@@ -31,6 +31,11 @@ the graph is green, the code is quiet.
   <img alt="Contribution statistics: total contributions, current streak, longest streak" src="https://streak-stats.demolab.com?user=luca-macchi-zh&hide_border=true&background=00000000&stroke=00000000&ring=1f2328&fire=1f2328&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=59636e&sideLabels=59636e&dates=6e7781">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=luca-macchi-zh&hide_border=true&hide_title=true&bg_color=00000000&color=6e7681&line=f0f6fc&point=f0f6fc&area=true&area_color=484f58">
+  <img alt="Contribution activity over the last month, as a line graph" src="https://github-readme-activity-graph.vercel.app/graph?username=luca-macchi-zh&hide_border=true&hide_title=true&bg_color=00000000&color=6e7781&line=1f2328&point=1f2328&area=true&area_color=afb8c1">
+</picture>
+
 <br>
 
 ---
