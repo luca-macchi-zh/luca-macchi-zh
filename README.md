@@ -27,8 +27,8 @@ the graph is green, the code is quiet.
 <sub><samp>§ ACTIVITY</samp></sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=luca-macchi-zh&hide_title=true&hide_border=true&show_icons=false&count_private=true&text_bold=false&bg_color=00000000&title_color=f0f6fc&text_color=9198a1&ring_color=f0f6fc">
-  <img alt="GitHub activity statistics for luca-macchi-zh" src="https://github-readme-stats.vercel.app/api?username=luca-macchi-zh&hide_title=true&hide_border=true&show_icons=false&count_private=true&text_bold=false&bg_color=00000000&title_color=1f2328&text_color=59636e&ring_color=1f2328">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=luca-macchi-zh&hide_border=true&background=00000000&stroke=00000000&ring=f0f6fc&fire=f0f6fc&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=9198a1&sideLabels=9198a1&dates=6e7681">
+  <img alt="Contribution statistics: total contributions, current streak, longest streak" src="https://streak-stats.demolab.com?user=luca-macchi-zh&hide_border=true&background=00000000&stroke=00000000&ring=1f2328&fire=1f2328&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=59636e&sideLabels=59636e&dates=6e7781">
 </picture>
 
 <br>
