@@ -4,9 +4,7 @@
 
 # hello.
 
-**Luca M. Macchi** · [z0pus lab](https://z0pus-lab.dev)
-
-A one-person studio for staging, previewing, and reviewing work in motion.
+I'm **Luca** — I design and build things for the web.
 
 <sub><samp>TYPESCRIPT · JAVASCRIPT · THE WEB PLATFORM</samp></sub>
 
@@ -16,13 +14,13 @@ A one-person studio for staging, previewing, and reviewing work in motion.
 
 <br>
 
-<sub><samp>§ PRACTICE</samp></sub>
+<sub><samp>§ ABOUT</samp></sub>
 
-Design and engineering for independent clients.<br>
-Brand &amp; identity · web design · frontend engineering · prototyping · design review.
+Designer and engineer, based in Europe.<br>
+Typography, motion that knows when to stop, and small details done properly.
 
-The work is quiet and careful — made for people who value craft over scale.<br>
-Most of it lives in private repositories: the graph is green, the code is quiet.
+Most of what I make lives in private repositories —<br>
+the graph is green, the code is quiet.
 
 <br>
 
@@ -39,7 +37,7 @@ Most of it lives in private repositories: the graph is green, the code is quiet.
 
 <br>
 
-<samp><a href="https://z0pus-lab.dev">z0pus-lab.dev&nbsp;›</a>&emsp;<a href="mailto:hello@z0pus-lab.dev">hello@z0pus-lab.dev&nbsp;›</a></samp>
+<samp><a href="mailto:hello@z0pus-lab.dev">say hello&nbsp;›</a>&emsp;<a href="https://z0pus-lab.dev">the studio&nbsp;›</a></samp>
 
 <br>
 <br>
