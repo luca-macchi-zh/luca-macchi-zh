@@ -16,7 +16,7 @@ I'm **Luca** — I design and build things for the web.
 
 <sub><samp>§ ABOUT</samp></sub>
 
-Designer and engineer, based in Europe.<br>
+Designer and engineer, based in Switzerland.<br>
 Typography, motion that knows when to stop, and small details done properly.
 
 Most of what I make lives in private repositories —<br>
@@ -47,7 +47,7 @@ the graph is green, the code is quiet.
 <br>
 <br>
 
-<sub>Designed in Europe. Typeset in San Francisco.</sub>
+<sub>Designed in Switzerland. Typeset in San Francisco.</sub>
 
 <br>
 
