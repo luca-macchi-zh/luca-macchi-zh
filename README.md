@@ -48,7 +48,7 @@ Subtract until it breaks. Then put back the last thing you removed.
 <br>
 <br>
 
-<sub>Designed in Switzerland. Typeset in San Francisco.</sub>
+<sub>Designed in Switzerland.</sub>
 
 <br>
 
