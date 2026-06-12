@@ -6,7 +6,7 @@
 
 I'm **Luca** — I design and build things for the web.
 
-<sub><samp>TYPESCRIPT · JAVASCRIPT · THE WEB PLATFORM</samp></sub>
+<sub><samp>GERMAN · SWISS GERMAN · FRENCH · ENGLISH</samp></sub>
 
 <br>
 
@@ -16,10 +16,12 @@ I'm **Luca** — I design and build things for the web.
 
 <sub><samp>§ ABOUT</samp></sub>
 
-Designer and engineer, based in Switzerland.<br>
-Typography, motion that knows when to stop, and small details done properly.
+Based in Switzerland. z0pus lab is the studio I run on the side of the day job.<br>
+Self-taught — vibecoding since January 2026 — and learning everything at once:<br>
+Swift, backends &amp; databases, type &amp; motion, AI tooling.
 
-Most of what I make lives in private repositories —<br>
+Off the screen: photography, the mountains, sport.<br>
+Most of what I build lives in private repositories —<br>
 the graph is green, the code is quiet.
 
 <br>
@@ -52,4 +54,3 @@ the graph is green, the code is quiet.
 <br>
 
 </div>
-
